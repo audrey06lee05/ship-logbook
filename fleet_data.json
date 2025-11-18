@@ -1,0 +1,20 @@
+{
+  "boats": [],
+  "logs": [
+    "[2025-10-26 19:45:14] 1 joined the fleet.",
+    "[2025-10-26 19:45:31] 1 arrived at 1.",
+    "[2025-10-26 19:46:18] 2 joined the fleet.",
+    "[2025-10-26 19:46:31] 2 arrived at 2.",
+    "[2025-10-26 19:47:16] 3 joined the fleet.",
+    "[2025-10-26 19:47:37] 3 arrived at 3.",
+    "[2025-10-26 19:49:23] 3 was removed from the fleet.",
+    "[2025-10-26 20:17:05] 2 was removed from the fleet.",
+    "[2025-10-26 20:17:22] 1 was removed from the fleet.",
+    "[2025-10-26 20:17:32] 111 joined the fleet.",
+    "[2025-10-26 20:17:42] 222 joined the fleet.",
+    "[2025-10-26 20:18:19] 222 arrived at 22222.",
+    "[2025-10-26 20:18:57] 111 was removed from the fleet.",
+    "[2025-10-26 20:19:00] 222 was removed from the fleet."
+  ],
+  "saved_date": "2025-10-26"
+}
